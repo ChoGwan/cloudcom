@@ -1,0 +1,1 @@
+SchTasks /Create /SC MINUTE /MO 30 /TN Stock_test /TR %cd%\stock.bat"
